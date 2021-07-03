@@ -1,9 +1,22 @@
+body{
+    font: 20px Arial, sans-serif;
+}
 .navbar{
     background-color: chocolate;
 }
 .quem-somos{
     background-color: crimson;
+    color: darkblue;
 }
 .margin{
     padding-top: 30px;
+    padding-top: 10px;
+}
+.parcerios{
+    background-color: darkred;
+    color: darkslategrey;
+}
+.bg-footer{
+    background-color: darkviolet;
+    color: floralwhite;
 }
